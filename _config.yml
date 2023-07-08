@@ -3,7 +3,7 @@ name: "Concept cars"
 title: "Concept cars"
 description: "Website about concept cars and their mass production cars"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 baseurl:
 google_analytics:
 disqus: 'demowebsite'
@@ -13,28 +13,11 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
   domas:
     name: Domas
     display_name: Domas
     avatar:
-    gravatar: fda0d2e32e4327bf0698141fb8d98a66
+    gravatar:
     email: domas.lescinskas@gmail.com
     web: https://domasles.github.io
     description: Domas L.
