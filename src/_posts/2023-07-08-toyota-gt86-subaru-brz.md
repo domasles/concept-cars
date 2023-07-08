@@ -3,7 +3,7 @@ layout: post
 title: "The iconic twins"
 author: domas
 categories: [Toyota, Subaru, Iconic]
-tags: [Twins]
+tags: [Sports]
 image: assets/images/toyota/gt86-brz/toyota-1.jpg
 description:
 featured: true
