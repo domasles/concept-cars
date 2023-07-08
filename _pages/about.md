@@ -25,4 +25,4 @@ You can find all the info about this website [**here**]({{ site.github.url }}{% 
 
 ## Final words
 
-I hope you'll like [**Concept cars**]({{ site.github.url }}) and find some useful information here. All I can say is happy browsing!
+I hope you'll like [**Concept cars**]({{ site.github.url }}/) and find some useful information here. All I can say is happy browsing!
