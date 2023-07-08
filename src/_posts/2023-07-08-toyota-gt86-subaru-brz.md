@@ -1,32 +1,35 @@
 ---
 layout: post
-title: "The edgy GT-R"
+title: "The iconic twins"
 author: domas
 categories: [Toyota, Subaru, Iconic]
 tags: [Twins]
-image: assets/images/toyota-1
-description: "The car that made it. And blew my mind."
+image: assets/images/toyota-1.jpg
+description: "Twins that earned world love."
 featured: true
 hidden: false
-rating: 4.5
+rating: 3.5
 ---
 
-„The car that made it. And blew my mind.“ Is the first thing I think when I look at transformation between the concept and mass-production versions of GT-R.
+The twins that immediately earned the love of the world.
 
-#### How it started vs. How it ended
+#### Co-operation idea
 
-Nissan made the GT-R prototype really close to what it is today, but maybe slightly more edged and, well, „Concept-looking.“ Nobody really thought that this would or *will* be a real car anytime soon, as cars in 2001 were pretty different to what was presented in the Tokyo Motor Show. Fast-forward to 2007, and there we have it!
+Toyota was actually the one to introduce this idea to Subaru. Toyota recognized the need for a compact, sports car in their lineup. Toyota used Subaru's knowledge in boxer engines and developed what is now considered one of the best starter cars for racing. It all started with a prototype, called "FT-86" (that's where the name "GT-86" is from). It was also called "Subaru 0846" which is nothing close to "BRZ" (meaning 3 things: Boxer engine, RWD and Zenith), the final name of Subaru's collab car.
 
-<img src="{{ site.baseurl }}/assets/images/nissan-2.jpg" class="featured-image img-fluid">
+<img src="{{ site.baseurl }}/assets/images/toyota-2.jpg" class="featured-image img-fluid">
 
-#### The car we all love (...now)
+#### Same car, different branding
 
-Nissan has gained a lot of reputation with its first GT-R, that they carried through to today. Of course, the 2007 GT-R (AKA. GT-R r35) has seen some updates, but they weren't as close to how it has changed from its prototype.
+Both car manufacturers made (almost) the same car, but branded it under a different name. Just look at them! See any major differences on the outside? But „Don't judge a book by its cover.“ On the inside they're completely different. Different cockpit, seats and bunch of other stuff that each manufacturer made by themselves.
 
-#### GT-R's meaning to racing world
+#### What's the point?
 
-The Nissan GT-R has also made a significant impact in the world of motorsports. It has participated in various racing series and events, including the prestigious Nürburgring 24-hour race, where it has achieved notable success.
+And this seems great, but you might be asking: why? Why would Toyota **share their idea with Subaru**? Well:
 
-#### My thoughts
+1. This was more cost efficient for Toyota. Creating it from scratch would cost much more. Collaborating with Subaru meant that the most expensive part (the engine) was already done. Toyota saw this and used it.
+2. Subaru's Reputation for Performance. Subaru had built a strong reputation for producing performance-oriented vehicles, particularly with their WRX and STI models. Toyota noticed Subaru as a suitable partner to help create a sports car that would deliver engaging driving dynamics and performance.
 
-I can't rate this change from a concept to a real thing less than 4 stars. I'm not a true fan of the design of this car (I think the r34 (predecessor of this model) looks more... Authentic), but that's just my personal opinion. Overall, it's generated loads of excitement in car lovers' community and I cannot describe it anything else than „A miracle nobody thought of.“
+#### My rating over how it changed
+
+The concept was already pretty close to the final product. There wasn't much to change. Overall, I really like this car with its *compactness*. No doubt it's one of the best starter racing cars. But judging from the transformation, I'll rate this 3.5 stars, because Toyota already delivered a stable prototype, but I expected bigger changes in design.
