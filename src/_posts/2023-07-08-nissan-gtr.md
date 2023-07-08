@@ -4,20 +4,24 @@ title: "The edgy GT-R"
 author: domas
 categories: [Nissan, Iconic]
 tags: [GT-R]
-image: assets/images/nissan-1.jpg
-description: "The car that made it. And blew my mind."
+image: assets/images/nissan/gtr-r35/nissan-1.jpg
+description:
 featured: true
 hidden: false
 rating: 4.5
 ---
 
-„The car that made it. And blew my mind.“ Is the first thing I think when I look at transformation between the concept and mass-production versions of GT-R.
+„Just. Wow.“ - my first thought just looking at GT-R's prototype.
+
+#### Why am I so surprised?
+
+I'm just amazed by the courage of Nissan. Even I couldn't have thought that 2001's Nissan concept would make it to the real world.
 
 #### How it started vs. How it ended
 
-Nissan made the GT-R prototype really close to what it is today, but maybe slightly more edged and, well, „Concept-looking.“ Nobody really thought that this would or *will* be a real car anytime soon, as cars in 2001 were pretty different to what was presented in the Tokyo Motor Show. Fast-forward to 2007, and there we have it!
+Nissan made the GT-R prototype really close to what it is today, but maybe slightly more edged and, well, „Concept-looking.“ Nobody really thought that this would or *will* be a real car anytime soon, as cars in 2001 (what I'm calling, the „Round car era“) were pretty different to what was presented in the Tokyo Motor Show. Fast-forward to 2007, and there we have it!
 
-<img src="{{ site.baseurl }}/assets/images/nissan-2.jpg" class="featured-image img-fluid">
+<img src="{{ site.baseurl }}/assets/images/nissan/gtr-r35/nissan-2.jpg" class="featured-image img-fluid">
 
 #### The car we all love (...now)
 
@@ -29,4 +33,4 @@ The Nissan GT-R has also made a significant impact in the world of motorsports. 
 
 #### My thoughts
 
-I can't rate this change from a concept to a real thing less than 4 stars. I'm not a true fan of the design of this car (I think the r34 (predecessor of this model) looks more... Authentic), but that's just my personal opinion. Overall, it's generated loads of excitement in car lovers' community and I cannot describe it anything else than „A miracle nobody thought of.“
+I can't rate this „Dream to real“ thing less than 4 stars. I'm not a true fan of the design of this car (I think the r34 (predecessor of this model) looks more... Authentic), but that's just my personal opinion. Overall, it has generated loads of excitement among car lovers and I cannot describe it anything else than „A miracle nobody thought of.“
