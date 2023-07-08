@@ -5,7 +5,7 @@ permalink: /about
 comments: true
 ---
 
-<img src="../assets/images/aboutme.jpg">
+<img src="{{ site.baseurl }}/assets/images/aboutme.jpg">
 
 ## Introduction
 
