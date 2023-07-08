@@ -2,9 +2,9 @@
 layout: post
 title: "The edgy GT-R"
 author: domas
-categories: [Nissan, Iconic]
-tags: [GT-R]
-image: assets/images/nissan-1.jpg
+categories: [Toyota, Subaru, Iconic]
+tags: [Twins]
+image: assets/images/toyota-1
 description: "The car that made it. And blew my mind."
 featured: true
 hidden: false
