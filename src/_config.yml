@@ -14,13 +14,13 @@ permalink: /:title/
 # Authors
 authors:
   domas:
-    name: Domas
+    name: Domas Les
     display_name: Domas
     avatar:
     gravatar: fbf5601bd9a73bc4bead0e79b3e11419
     email: domas.lescinskas@gmail.com
     web: https://github.com/domasles
-    description: Domas L.
+    description: Admin
 
 # Plugins
 plugins:
