@@ -2,11 +2,12 @@
 layout: post
 title: "One of many"
 author: domas
+featured-photo-source: autoexpress.co.uk
 categories: [Skoda]
 tags: [SUV]
 image: assets/images/skoda/enyaq/skoda-1.jpg
 description:
-featured: true
+featured: false
 hidden: false
 rating: 3.5
 ---
