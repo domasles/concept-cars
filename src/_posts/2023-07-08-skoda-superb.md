@@ -25,7 +25,10 @@ Superb originated from the Vision C, which already looked like a real product th
 2. Has good design. Ask anyone on the street - they'll tell you the same.
 3. Comfortable. This varies between modifications, but the Superb is oriented to being a luxury product with its own priviledges.
 
-<img src="{{ site.baseurl }}/assets/images/skoda/superb/skoda-2.jpg" class="featured-image img-fluid">
+<div class="photo-credit">
+    <img src="{{ site.baseurl }}/assets/images/skoda/superb/skoda-2.jpg" class="featured-image img-fluid">
+    <a>Photo B: Comparison. Source of the photo at the left side: carwow.co.uk, at the right side: Pavlo Yakovenko</a>
+</div>
 
 #### This is a great deal
 

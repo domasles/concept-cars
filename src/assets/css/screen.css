@@ -354,9 +354,12 @@ blockquote {
     border-radius: 20px
 }
 
-a.photo-credit {
-    font-size: small;
-    color: grey;
+.photo-credit {
+    margin-bottom: 20px;
+}
+
+.photo-credit a{
+    font-size: 12.5px;
 }
 
 .share {

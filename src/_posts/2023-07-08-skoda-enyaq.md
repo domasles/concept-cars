@@ -22,7 +22,10 @@ You know what I mean if you've ever looked up "Škoda concept cars" on the inter
 
 I've always imagined Škoda as a cheaper brand with sedans and hatchbacks in its menu. Never thought that Škoda would start to make SUVs, but I guess the Yeti was a clear sign I never noticed. But becides that, I really like Škoda's direction and focus they're going for. Result - Vision iV becoming the Enyaq. Not the first, not the least in Škoda's SUV lineup.
 
-<img src="{{ site.baseurl }}/assets/images/skoda/enyaq/skoda-2.jpg" class="featured-image img-fluid">
+<div class="photo-credit">
+    <img src="{{ site.baseurl }}/assets/images/skoda/enyaq/skoda-2.jpg" class="featured-image img-fluid">
+    <a>Photo B: Comparison. Source of the photo at the left side: autocarindia.com, at the right side: autoexpress.co.uk</a>
+</div>
 
 #### Comparison
 

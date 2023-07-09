@@ -16,13 +16,16 @@ rating: 3
 
 #### Co-operation idea
 
-Toyota was actually the one to introduce this idea to Subaru. Toyota recognized the need for a compact, sports car in their lineup. Toyota used Subaru's knowledge in boxer engines and developed what is now considered one of the best starter cars for racing. It all started with a prototype, called „FT-86“ (that's where the name „GT-86“ is from). It was also called „Subaru 0846“ which is nothing close to „BRZ“ (meaning 3 things: Boxer engine, RWD and Zenith), the final name of Subaru's collab car.
+Toyota was actually the one to introduce this idea to Subaru. Toyota recognized the need for a compact, sports car in their lineup. Toyota used Subaru's knowledge in boxer engines and developed what is now considered one of the best starter cars for racing. It all started with a prototype, called „FT-86“ (that's where the name „GT-86“ is from). Subary had a name for this car as well. It was named „Subaru 0846“, which is nothing close to „BRZ“ (meaning 3 things: Boxer engine, RWD and Zenith), or, what we have now.
 
-<img src="{{ site.baseurl }}/assets/images/toyota/gt86-brz/toyota-2.jpg" class="featured-image img-fluid">
+<div class="photo-credit">
+    <img src="{{ site.baseurl }}/assets/images/toyota/gt86-brz/toyota-2.jpg" class="featured-image img-fluid">
+    <a>Photo B: Comparison. Source of the photo at the left side: carbuzz.com, at the right side: toyota.co.uk</a>
+</div>
 
 #### Same car, different branding
 
-Both car manufacturers made (almost) the same car, but branded it under a different name. Just look at them! See any major differences on the outside? But „Don't judge a book by its cover.“ On the inside they're completely different. Different cockpit, seats and bunch of other stuff that each manufacturer made by themselves.
+Both car manufacturers made (almost) the same car, but branded it under a different name. Just look at them! See any major differences on the outside? But „Don't judge a book by its cover.“ On the inside they're completely different. Different cockpit, seats, technologies and bunch of other stuff that each manufacturer made by themselves. Probably the only thing they collaborated with, was the body and the engine.
 
 #### What's the point?
 
