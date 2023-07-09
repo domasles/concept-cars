@@ -1,12 +1,12 @@
 # Site
 name: "Concept cars"
 title: "Concept cars"
-description: "Website about concept cars and their mass production cars"
+description: "A website about concept cars and their mass production variants"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl:
 google_analytics:
-disqus: 'demowebsite'
+disqus:
 mailchimp-list:
 include: ["_pages"]
 permalink: /:title/
