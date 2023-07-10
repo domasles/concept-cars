@@ -27,7 +27,7 @@ Superb originated from the Vision C, which already looked like a real product th
 
 <div class="photo-credit">
     <img src="{{ site.baseurl }}/assets/images/skoda/superb/skoda-2.jpg" class="featured-image img-fluid">
-    <p>Comparison. Left photo source: carwow.co.uk, right photo source: Pavlo Yakovenko</p>
+    <p>Comparison. Left photo - real car. Source: carwow.co.uk, right photo - concept. Source: Pavlo Yakovenko</p>
 </div>
 
 #### This is a great deal

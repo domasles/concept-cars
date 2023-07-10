@@ -22,7 +22,7 @@ When we look at the concept (Toyota FT-1), it becomes clear that it was meant to
 
 <div class="photo-credit">
     <img src="{{ site.baseurl }}/assets/images/toyota/supra-mk5/toyota-2.jpg" class="featured-image img-fluid">
-    <p>Comparison. Left photo source: rare-gallery.com, right photo source: carsguide.com.au</p>
+    <p>Comparison. Left photo - real car. Source: rare-gallery.com, right photo - concept. Source: carsguide.com.au</p>
 </div>
 
 It was like a mix of previous Toyota cars that „exploded“ in popularity, but with a new fashion added to it. Although, fans weren't happy with this new design.\
