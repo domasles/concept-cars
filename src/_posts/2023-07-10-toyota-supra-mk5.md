@@ -27,7 +27,7 @@ When we look at the concept (Toyota FT-1), it becomes clear that it was meant to
 
 It was like a mix of previous Toyota cars that „exploded“ in popularity, but with a new fashion added to it. Although, fans weren't happy with this new design.\
 When we dig deeper, it turns out that Toyota, once again shared the development with another brand. This time it was BMW.
-The all-new Supra was powered by two different turbocharged 2 litre four-cylinder, or a turbo 3 litre inline six-cylinder engines. All motors were equipped with an eight-speed automatic gearbox.
+The all-new Supra was powered by two different turbocharged 2.0 litre four-cylinder, or a turbo 3.0 litre inline six-cylinder engines by BMW. All motors were equipped with an eight-speed automatic gearbox.
 
 #### Why do I think it failed
 
