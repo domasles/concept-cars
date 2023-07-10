@@ -40,7 +40,7 @@ You see, it's a very personal thing for cars. Many people had their hopes too hi
 
 #### Better than you think
 
-If you'd dig deeper, you'd really start seeing the sleeping monster in this car. As a stock car, it can produce more horsepower than its predecessor, it's more aerodynamic, it's generally newer and made with new technologies to help reach Supra's potencial. Fans just don't appreciate it as much.
+If you'd dig deeper, you'd really start seeing the sleeping monster in it. As a stock car, it can produce more horsepower than its predecessor, it's more aerodynamic, it's generally newer and made with new technologies to help reach Supra's potencial. Fans just don't appreciate it as much.
 
 #### Last part
 

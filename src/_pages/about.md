@@ -21,7 +21,7 @@ My family members were familiar to computers, so I thought it was a good idea fo
 
 ## „What is this all about?“
 
-You can find all the info about this website [**here**]({{ site.github.url }}{% post_url 2023-07-08-welcome %}).
+You can find all the info about this website [**here**]({{ site.github.url }}{% post_url 2023-07-06-welcome %}).
 
 ## Final words
 
