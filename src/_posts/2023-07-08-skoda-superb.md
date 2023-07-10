@@ -3,7 +3,7 @@ layout: post
 title: "Great success!"
 author: domas
 featured-photo-source: Pavlo Yakovenko
-categories: [Skoda]
+categories: [Škoda]
 tags: [Sedan]
 image: assets/images/skoda/superb/skoda-1.jpg
 description:
@@ -27,7 +27,7 @@ Superb originated from the Vision C, which already looked like a real product th
 
 <div class="photo-credit">
     <img src="{{ site.baseurl }}/assets/images/skoda/superb/skoda-2.jpg" class="featured-image img-fluid">
-    <a>Photo B: Comparison. Source of the photo at the left side: carwow.co.uk, at the right side: Pavlo Yakovenko</a>
+    <p>Comparison. Left photo source: carwow.co.uk, right photo source: Pavlo Yakovenko</p>
 </div>
 
 #### This is a great deal

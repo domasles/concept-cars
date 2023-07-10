@@ -7,7 +7,7 @@ categories: [Toyota, Subaru, Iconic]
 tags: [Sports]
 image: assets/images/toyota/gt86-brz/toyota-1.jpg
 description:
-featured: true
+featured: false
 hidden: false
 rating: 3
 ---
@@ -20,7 +20,7 @@ Toyota was actually the one to introduce this idea to Subaru. Toyota recognized 
 
 <div class="photo-credit">
     <img src="{{ site.baseurl }}/assets/images/toyota/gt86-brz/toyota-2.jpg" class="featured-image img-fluid">
-    <a>Photo B: Comparison. Source of the photo at the left side: carbuzz.com, at the right side: toyota.co.uk</a>
+    <p>Comparison. Left photo source: carbuzz.com, right photo source: toyota.co.uk</p>
 </div>
 
 #### Same car, different branding

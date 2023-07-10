@@ -3,7 +3,7 @@ layout: post
 title: "One of many"
 author: domas
 featured-photo-source: autoexpress.co.uk
-categories: [Skoda]
+categories: [Škoda]
 tags: [SUV]
 image: assets/images/skoda/enyaq/skoda-1.jpg
 description:
@@ -24,7 +24,7 @@ I've always imagined Škoda as a cheaper brand with sedans and hatchbacks in its
 
 <div class="photo-credit">
     <img src="{{ site.baseurl }}/assets/images/skoda/enyaq/skoda-2.jpg" class="featured-image img-fluid">
-    <a>Photo B: Comparison. Source of the photo at the left side: autocarindia.com, at the right side: autoexpress.co.uk</a>
+    <p>Comparison. Left photo source: autocarindia.com, right photo source: autoexpress.co.uk</p>
 </div>
 
 #### Comparison
