@@ -33,21 +33,21 @@ GM already got the style and resources to make this beautiful concept come to li
 #### Car specs
 
 ```java
-| ------------------------- | --------------------- | ---------------------- |
-|       Specification       |        Concept        |       Production       |
-| ------------------------- | --------------------- | ---------------------- |
-|        Engine type        | Gas/Electric (hybrid) |  Gas/Electric (hybrid) |
-|     Battery capacity      |        16 kWh         |         16 kWh         |
-|   Battery recharge time   |    Up to 6.5 hours    | Up to 4.5 hours @ 220V |
-|       Transmission        |       Automatic       |        Automatic       |
-|        Drive type         |   Front-wheel drive   |    Front-wheel drive   |
-| Acceleration (0-100 km/h) |         8.5 s.        |          9.2 s.        |
-|        Max speed          |        193 km/h       |        160 km/h        |
-|        Fuel type          |          E85          |     Regular octane     |
-|       Engine size         |         1.0 L         |          1.0 L         |
-|        Horsepower         |          160          |  149 (depends on year) |
-|    Range on batteries     |         64 km         |          61 km         |
-| ------------------------- | --------------------- | ---------------------- |
+| ------------------------- | --------------------- | --------------------- |
+|       Specification       |        Concept        |       Production      |
+| ------------------------- | --------------------- | --------------------- |
+|        Engine type        | Gas/Electric (hybrid) | Gas/Electric (hybrid) |
+|     Battery capacity      |        16 kWh         |        16 kWh         |
+|   Battery recharge time   |    Up to 6.5 hours    | Up to 4.5 hours, 220V |
+|       Transmission        |       Automatic       |       Automatic       |
+|        Drive type         |   Front-wheel drive   |   Front-wheel drive   |
+| Acceleration (0-100 km/h) |         8.5 s.        |         9.2 s.        |
+|        Max speed          |        193 km/h       |       160 km/h        |
+|        Fuel type          |          E85          |    Regular octane     |
+|       Engine size         |         1.0 L         |         1.0 L         |
+|        Horsepower         |          160          | 149 (depends on year) |
+|    Range on batteries     |         64 km         |         61 km         |
+| ------------------------- | --------------------- | --------------------- |
 ```
 Judging from the specs, we can see a slight downgrade in terms of acceleration and horsepower. Overall, the production Volt managed to keep up pretty well.\
 Yes, the Volt can go only up to 105 km on one charge and reach 160 km/h, which makes it impossible to go on a trip with this car. It's slow, it can't go far, yuck! It was never meant to be a car for long trips and rather a city car though, so it's kind of forgiven. But besides that, there are quite a lot of known issues, like electric system problems, engine related problems and failures in the brakes system. Not something anyone would like to have in their car.
