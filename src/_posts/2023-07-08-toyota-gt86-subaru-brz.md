@@ -41,7 +41,7 @@ And this seems great, but you might be asking: why? Why would Toyota **share the
 |        Engine type        |           Gas            |        Gas        |
 |       Transmission        | 6 speed automatic/manual | 6 speed automatic |
 |        Drive type         |     Rear-wheel drive     | Rear-wheel drive  |
-| Acceleration (0-100 km/h) |           6.7 s.         |       7.1 s.      |
+| Acceleration (0-100 km/h) |           6.7 s          |       7.1 s       |
 |        Max speed          |         219 km/h         |      226 km/h     |
 |        Fuel type          |     Premium gasoline     | Premium gasoline  |
 |       Engine size         |           2.0 L          |       2.0 L       |

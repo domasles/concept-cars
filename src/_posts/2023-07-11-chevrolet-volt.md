@@ -41,7 +41,7 @@ GM already got the style and resources to make this beautiful concept come to li
 |   Battery recharge time   |    Up to 6.5 hours    | Up to 4.5 hours, 220V |
 |       Transmission        |       Automatic       |       Automatic       |
 |        Drive type         |   Front-wheel drive   |   Front-wheel drive   |
-| Acceleration (0-100 km/h) |         8.5 s.        |         9.2 s.        |
+| Acceleration (0-100 km/h) |         8.5 s         |         9.2 s         |
 |        Max speed          |        193 km/h       |       160 km/h        |
 |        Fuel type          |          E85          |    Regular octane     |
 |       Engine size         |         1.0 L         |         1.0 L         |
