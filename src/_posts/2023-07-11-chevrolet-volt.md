@@ -21,7 +21,7 @@ also disappointing at the same time. When you look at the trasformation again, i
 
 <div class="photo-credit">
     <img src="{{ site.baseurl }}/assets/images/chevrolet/volt/chevrolet-2.jpg" class="featured-image img-fluid">
-    <p>Comparison. Left photo - real car. Source: autoweek.com, right photo - concept. Source: supercars.net</p>
+    <p>Comparison. Left photo - production. Source: autoweek.com, right photo - concept. Source: supercars.net</p>
 </div>
 
 It's incredible how such a car became the Volt we know now. And I don't mean that incredibleness in a good way. Chevrolet could've made something big out of this concept. I guess we won't see it come to life ever again.
@@ -33,6 +33,13 @@ GM already got the style and resources to make this beautiful concept come to li
 #### Downsides. Much of them.
 
 The Volt can go only up to 105 km on one charge and reach 160 km/h. This makes it impossible to go on a trip with this car. It's slow, it can't go far, yuck! Of course, it was never meant to be a car for long trips and rather a city car. Also, there are quite a lot of known issues, like electric system problems, engine related problems and failures in the brakes system. Not something anyone would like to have in their car.
+
+<!-- #### Car specs
+
+| Concept | Production
+| :-----: |
+|         |
+|         | -->
 
 #### Verdict and Recap
 

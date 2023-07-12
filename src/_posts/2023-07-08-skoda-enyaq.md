@@ -24,7 +24,7 @@ I've always imagined Škoda as a cheaper brand with sedans and hatchbacks in its
 
 <div class="photo-credit">
     <img src="{{ site.baseurl }}/assets/images/skoda/enyaq/skoda-2.jpg" class="featured-image img-fluid">
-    <p>Comparison. Left photo - real car. Source: autocarindia.com, right photo - concept. Source: autoexpress.co.uk</p>
+    <p>Comparison. Left photo - production. Source: autocarindia.com, right photo - concept. Source: autoexpress.co.uk</p>
 </div>
 
 #### Comparison
