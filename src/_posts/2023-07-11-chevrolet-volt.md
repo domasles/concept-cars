@@ -46,7 +46,7 @@ GM already got the style and resources to make this beautiful concept come to li
 |        Fuel type          |          E85          |    Regular octane     |
 |       Engine size         |         1.0 L         |         1.0 L         |
 |        Horsepower         |          160          | 149 (depends on year) |
-|    Range on batteries     |         64 km         |         61 km         |
+|    Range on batteries     |      Up to 64 km      |      Up to 80 km      |
 | ------------------------- | --------------------- | --------------------- |
 ```
 Judging from the specs, we can see a slight downgrade in terms of acceleration and horsepower. Overall, the production Volt managed to keep up pretty well.\
