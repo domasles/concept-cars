@@ -42,6 +42,25 @@ You see, it's a very personal thing for cars. Many people had their hopes too hi
 
 If you'd dig deeper, you'd really start seeing the sleeping monster in it. As a stock car, it can produce more horsepower than its predecessor, it's more aerodynamic, it's generally newer and made with new technologies to help reach Supra's potencial. Fans just don't appreciate it as much.
 
+#### Car specs
+
+```java
+| ------------------------- | ----------------- | ----------------- |
+|       Specification       |      Concept      |    Production     |
+| ------------------------- | ----------------- | ----------------- |
+|        Engine type        |        Gas        |        Gas        |
+|       Transmission        | 8 speed automatic | 8 speed automatic |
+|        Drive type         | Rear-wheel drive  | Rear-wheel drive  |
+| Acceleration (0-100 km/h) |         ?         |       4.3 s.      |
+|        Max speed          |      313 km/h     |      249 km/h     |
+|        Fuel type          |         ?         | Premium gasoline  |
+|       Engine size         |       2.0 L       |    2.0 L/3.0 L    |
+|        Horsepower         |        483        |        382        |
+|          Range            |         ?         |   Up to 661 km    |
+| ------------------------- | ----------------- | ----------------- |
+```
+Now it really starts to make sense of how much this thing can.
+
 #### Last part
 
 It was, is and will be one of the best cars Toyota made that didn't get a chance to shine. For me, I knew this is is going to be something big the first time I saw the concept and the rumors of an all-new Supra car. I really like the design and transformation from a concept to a car. Let's face that FT-1 (the concept) looks better in every way, but we have what we have. Overall, it's a great car that I will have to rate at 5 stars with the hope of it being more appreciated among the community.

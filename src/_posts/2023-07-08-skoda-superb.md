@@ -38,6 +38,23 @@ When 3rd gen Superb got its looks from the Vision C, it determined the 3rd gen o
 
 As you can see, Škoda likes to make a lot of concepts, that already are functional products. That's why we can't expect much more out of a concept car port from Škoda.
 
+```java
+| ------------------------- | ------------------------ | ------------------ |
+|       Specification       |         Concept          |     Production     |
+| ------------------------- | ------------------------ | ------------------ |
+|        Engine type        |           Gas            |         Gas        |
+|          Gearbox          |        Automatic         |   6 speed manual   |
+|        Drive type         |     Front-wheel drive    |  Front-wheel drive |
+| Acceleration (0-100 km/h) |             ?            |        8.0 s.      |
+|        Max speed          |         214 km/h         |       237 km/h     |
+|        Fuel type          |          Petrol          |  Premium gasoline  |
+|       Engine size         |           1.4 L          | 1.5, 1.6 and 2.0 L |
+|        Horsepower         |            110           |         187        |
+|          Range            |             ?            |    Up to 1609 km   |
+| ------------------------- | ------------------------ | ------------------ |
+```
+For a city car, these are pretty good! Plus, a significant upgrade from the concept!
+
 #### The part you've been waiting for
 
 I will give this transformation a 4 star rating. The 2 things that led to this are:
