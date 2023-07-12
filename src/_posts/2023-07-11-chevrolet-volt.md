@@ -50,7 +50,7 @@ GM already got the style and resources to make this beautiful concept come to li
 | ------------------------- | --------------------- | --------------------- |
 ```
 Judging from the specs, we can see a slight downgrade in terms of acceleration and horsepower. Overall, the production Volt managed to keep up pretty well.\
-Yes, the Volt can go only up to 105 km on one charge and reach 160 km/h, which makes it impossible to go on a trip with this car. It's slow, it can't go far, yuck! It was never meant to be a car for long trips and rather a city car though, so it's kind of forgiven. But besides that, there are quite a lot of known issues, like electric system problems, engine related problems and failures in the brakes system. Not something anyone would like to have in their car.
+Yes, the Volt can only reach up to 160 km/h, which makes it impossible to go on a trip with this car. It's slow, it can't go far, yuck! It was never meant to be a car for long trips and rather a city car though, so it's kind of forgiven. But besides that, there are quite a lot of known issues, like electric system problems, engine related problems and failures in the brakes system. Not something anyone would like to have in their car.
 
 #### Verdict and Recap
 
