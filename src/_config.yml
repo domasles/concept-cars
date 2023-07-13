@@ -17,6 +17,7 @@ navbarElements:
 - {name: "Car tags", url: "tags"}
 - {name: "Iconic cars", url: "categories#Iconic"}
 - {name: "About me", url: "about"}
+
 # Authors
 authors:
   domas:
