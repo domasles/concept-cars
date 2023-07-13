@@ -11,6 +11,12 @@ mailchimp-list:
 include: ["_pages"]
 permalink: /:title/
 
+navbarElements:
+- {name: "Welcome!", url: "welcome"}
+- {name: "Car categories", url: "categories"}
+- {name: "Car tags", url: "tags"}
+- {name: "Iconic cars", url: "categories#Iconic"}
+- {name: "About me", url: "about"}
 # Authors
 authors:
   domas:
