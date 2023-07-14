@@ -5,7 +5,7 @@ description: "A website about concept cars and their mass production variants"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl:
-google_analytics: G-56P3V9NS4T
+google_analytics: 'G-56P3V9NS4T'
 disqus:
 mailchimp-list:
 include: ["_pages"]
