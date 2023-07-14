@@ -23,7 +23,8 @@ a:hover {
 
 a.nav-link {
     padding: 0%;
-    padding-top: 0.5rem;
+    padding-top: 0.44rem;
+    padding-bottom: 0.34rem;
 }
 
 a.nav-link:hover {
