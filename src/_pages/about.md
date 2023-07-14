@@ -2,7 +2,7 @@
 layout: page
 title: About me
 permalink: /about
-comments: true
+comments: false
 ---
 
 <img src="{{ site.baseurl }}/assets/images/aboutme.jpg">

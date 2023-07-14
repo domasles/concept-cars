@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl:
 google_analytics: 'G-56P3V9NS4T'
-disqus:
+disqus: 'concept-cars'
 mailchimp-list:
 include: ["_pages"]
 permalink: /:title/
