@@ -21,6 +21,15 @@ a:hover {
     text-decoration: none;
 }
 
+a.nav-link {
+    padding: 0%;
+    padding-top: 0.5rem;
+}
+
+a.nav-link:hover {
+    font-size: 1.1rem;
+}
+
 pre {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
