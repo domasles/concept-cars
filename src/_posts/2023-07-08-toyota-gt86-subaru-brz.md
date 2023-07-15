@@ -36,9 +36,9 @@ And this seems great, but you might be asking: why? Why would Toyota **share the
 
 ```java
 | ------------------------- | ------------------------ | ----------------- |
-|       Specification       |         Concept          |    Production     |
+|       Specification       |          Concept         |    Production     |
 | ------------------------- | ------------------------ | ----------------- |
-|        Engine type        |           Gas            |        Gas        |
+|        Engine type        |            Gas           |        Gas        |
 |       Transmission        | 6 speed automatic/manual | 6 speed automatic |
 |        Drive type         |     Rear-wheel drive     | Rear-wheel drive  |
 | Acceleration (0-100 km/h) |           6.7 s          |       7.1 s       |
