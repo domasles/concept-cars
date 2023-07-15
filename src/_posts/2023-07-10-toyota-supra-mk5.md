@@ -52,11 +52,11 @@ If you'd dig deeper, you'd really start seeing the sleeping monster in it. As a 
 |       Transmission        | 8 speed automatic | 8 speed automatic |
 |        Drive type         | Rear-wheel drive  | Rear-wheel drive  |
 | Acceleration (0-100 km/h) |         ?         |       4.3 s       |
-|        Max speed          |      313 km/h     |      249 km/h     |
-|        Fuel type          |         ?         | Premium gasoline  |
-|       Engine size         |       2.0 L       |    2.0 L/3.0 L    |
-|        Horsepower         |        483        |        382        |
-|          Range            |         ?         |   Up to 661 km    |
+|         Max speed         |      313 km/h     |      249 km/h     |
+|         Fuel type         |         ?         | Premium gasoline  |
+|        Engine size        |       2.0 L       |    2.0 L/3.0 L    |
+|         Horsepower        |        483        |        382        |
+|           Range           |         ?         |   Up to 661 km    |
 | ------------------------- | ----------------- | ----------------- |
 ```
 Now it really starts to make sense of how much this thing can.

@@ -42,11 +42,11 @@ GM already got the style and resources to make this beautiful concept come to li
 |       Transmission        |       Automatic       |       Automatic       |
 |        Drive type         |   Front-wheel drive   |   Front-wheel drive   |
 | Acceleration (0-100 km/h) |         8.5 s         |         9.2 s         |
-|        Max speed          |        193 km/h       |       160 km/h        |
-|        Fuel type          |          E85          |    Regular octane     |
-|       Engine size         |         1.0 L         |         1.0 L         |
-|        Horsepower         |          160          | 149 (depends on year) |
-|    Range on batteries     |      Up to 64 km      |      Up to 80 km      |
+|         Max speed         |        193 km/h       |       160 km/h        |
+|         Fuel type         |          E85          |    Regular octane     |
+|        Engine size        |         1.0 L         |         1.0 L         |
+|         Horsepower        |          160          | 149 (depends on year) |
+|     Range on batteries    |      Up to 64 km      |      Up to 80 km      |
 | ------------------------- | --------------------- | --------------------- |
 ```
 Judging from the specs, we can see a slight downgrade in terms of acceleration and horsepower. Overall, the production Volt managed to keep up pretty well.\

@@ -46,11 +46,11 @@ As you can see, Škoda likes to make a lot of concepts, that already are functio
 |          Gearbox          |     Automatic     |   6 speed manual   |
 |        Drive type         | Front-wheel drive |  Front-wheel drive |
 | Acceleration (0-100 km/h) |         ?         |        8.0 s       |
-|        Max speed          |     214 km/h      |       237 km/h     |
-|        Fuel type          |      Petrol       |  Premium gasoline  |
-|       Engine size         |       1.4 L       | 1.5, 1.6 and 2.0 L |
-|        Horsepower         |        110        |         187        |
-|          Range            |         ?         |    Up to 1609 km   |
+|         Max speed         |     214 km/h      |       237 km/h     |
+|         Fuel type         |      Petrol       |  Premium gasoline  |
+|        Engine size        |       1.4 L       | 1.5, 1.6 and 2.0 L |
+|         Horsepower        |        110        |         187        |
+|           Range           |         ?         |    Up to 1609 km   |
 | ------------------------- | ----------------- | ------------------ |
 ```
 For a city car, these are pretty good! Plus, a significant upgrade from the concept!
